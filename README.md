@@ -10,6 +10,10 @@ Ce projet de data visualisation réalisé avec Tableau dans le cadre de mon mast
 - Le pouvoir d'achat et le coût de la vie
 - L'évolution du taux de bonheur (2020-2025)
 
+|            |
+|:----------:|
+| ![Page de garde](https://github.com/user-attachments/assets/33365ea0-877a-4aa0-803e-2cc055bfa0fa) |
+
 Le storytelling et les visualisations permettent de guider l'utilisateur vers le choix optimal. La Finlande s'est imposée comme la destination idéale, offrant sécurité, bien-être et équilibre.
 
 *⚙️ Comment utiliser ce projet ?*
