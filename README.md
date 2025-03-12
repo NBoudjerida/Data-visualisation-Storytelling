@@ -1,5 +1,6 @@
 # 🌍 Data Visualization & Storytelling
 📖 Description du projet
+
 Ce projet de data visualisation réalisé avec Tableau raconte l’histoire de Paul Morel, un homme en quête d’un pays offrant une meilleure qualité de vie. En s'appuyant sur des données socio-économiques fiables, le projet compare plusieurs indicateurs clés par pays, tels que :
 
 - Le SMIC horaire brut
