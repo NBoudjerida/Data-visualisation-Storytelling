@@ -15,6 +15,7 @@ Le storytelling et les visualisations interactives permettent de guider l'utilis
 🛠️ Technologies utilisées
 
 Tableau Desktop : pour la création des visualisations et des dashboards interactifs.
+
 Sources de données :
 Kaggle (Données mondiales sur les pays - 2023)
 Rapports Forbes sur le bonheur et la qualité de vie en 2023 et 2024.
