@@ -8,7 +8,7 @@ Ce projet de data visualisation réalisé avec Tableau dans le cadre de mon mast
 - L'indice de sûreté
 - Le niveau de soutien social
 - Le pouvoir d'achat et le coût de la vie
-- Le taux de bonheur entre 2020 et 2025
+- L'évolution du taux de bonheur (2020-2025)
 
 Le storytelling et les visualisations permettent de guider l'utilisateur vers le choix optimal. La Finlande s'est imposée comme la destination idéale, offrant sécurité, bien-être et équilibre.
 
