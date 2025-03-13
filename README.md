@@ -20,7 +20,7 @@ Le storytelling et les visualisations permettent de guider l'utilisateur vers le
 
 - Téléchargez le fichier Tableau contenant les visualisations.
 
-- Parcourez les différentes dashboards interactifs pour explorer les données, comparer les indicateurs, et suivre le cheminement narratif du projet.
+- Parcourez les différentes dashboards pour explorer les données, comparer les indicateurs, et suivre le cheminement narratif du projet.
 Vous pouvez zoomer sur les cartes et analyser les tendances par pays.
 
 *🛠️ Technologies utilisées*
