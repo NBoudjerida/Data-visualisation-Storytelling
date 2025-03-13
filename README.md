@@ -32,11 +32,3 @@ Vous pouvez zoomer sur les cartes et analyser les tendances par pays.
 - Kaggle (Données mondiales sur les pays - 2023)
 
 - Rapports Forbes sur le bonheur et la qualité de vie en 2023 et 2024.
-
-*📄 Licence*
-
-Ce projet est protégé par la licence CC BY-ND 4.0.
-
-- Vous êtes autorisé à consulter, télécharger et partager ce projet à condition de créditer l'auteur original.
-- Vous **n'êtes pas autorisé** à modifier, transformer ou adapter le contenu.
-- Toute utilisation doit mentionner l'auteur : Nadir BOUDJERIDA.
